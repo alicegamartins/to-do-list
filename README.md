@@ -1,5 +1,6 @@
 # to-do list
 
+##Este é um aplicativo de lista de tarefas simples e eficiente, desenvolvido para ajudar na organização do dia a dia. Com ele, é possível adicionar, editar, marcar como concluído e excluir tarefas de maneira prática e intuitiva.
 
 website link: https://alicegamartins.github.io/to-do-list/
 
