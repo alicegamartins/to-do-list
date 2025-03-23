@@ -12,7 +12,7 @@ Mark as Done: Clique no botão verde para marcar a tarefa como concluída, deixa
 
 Delete Task: Clique no botão vermelho para remover a tarefa da lista
 
-<img src="https://github.com/alicegamartins/to-do-list/blob/1ac5cdc9444e244cadc8a8b86b89277598254dab/imagem.png" width="400">
+<img src="https://github.com/alicegamartins/to-do-list/blob/1ac5cdc9444e244cadc8a8b86b89277598254dab/imagem.png" width="600">
 
 
 
