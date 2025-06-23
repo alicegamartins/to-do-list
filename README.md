@@ -17,5 +17,3 @@ Delete Task: Clique no botão vermelho para remover a tarefa da lista
 
 
 
-
-
